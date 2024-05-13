@@ -1,0 +1,3 @@
+2024-05-13 10:45:55.0513|INFO|ConloseApp.Program|Aplication Started
+2024-05-13 10:45:58.8540|INFO|ConloseApp.Program|Directory Found
+2024-05-13 10:46:00.5841|INFO|ConloseApp.Program|Mazor Value 
